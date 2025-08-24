@@ -1,2 +1,2 @@
 http: http.c
-	gcc http.c -o http -Wall -Wextra -pedantic
+	gcc http.c -lmagic -o http -Wall -Wextra -pedantic
